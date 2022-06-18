@@ -27,7 +27,7 @@
          
           <li class="nav-item menu-closed">
             <a href="#" class="nav-link active">
-              <i class="nav-icon fas fa-list"></i>
+              <i class="nav-icon fas fa-home"></i>
               <p>
                 Company
                 <i class="right fas fa-angle-left"></i>
@@ -77,7 +77,7 @@
           </li>
           <li class="nav-item menu-closed">
             <a href="#" class="nav-link active">
-              <i class="nav-icon fas fa-list"></i>
+              <i class="nav-icon fas fa-users"></i>
               <p>
                 Employee
                 <i class="right fas fa-angle-left"></i>
@@ -102,7 +102,7 @@
           </li>
           <li class="nav-item menu-closed">
             <a href="#" class="nav-link active">
-              <i class="nav-icon fas fa-list"></i>
+              <i class="nav-icon fas fa-award"></i>
               <p>
                 Designation
                 <i class="right fas fa-angle-left"></i>
